@@ -1,8 +1,4 @@
-/*
- * SD2x Homework #5
- * This class represents a single rating for a movie.
- * Please do not change this code! Your solution will be evaluated using this version of the class.
- */
+
 
 public class UserMovieRating implements Comparable<UserMovieRating> {
 
